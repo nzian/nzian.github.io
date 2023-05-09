@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ziauddin',
+    linkedin: 'zia-uddin-robin-php-laravel-slim-developer',
     twitter: 'devnzian',
     mastodon: '',
     facebook: '',
