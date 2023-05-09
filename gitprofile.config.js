@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'nzian', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,21 +11,21 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'ziauddin',
+    twitter: 'devnzian',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    skype: 'live:.cid.ff1e9a2c014801ee',
+    telegram: '@Devnzian',
+    website: 'https://nzian.xyz',
+    phone: '+8801841908292',
+    email: 'nzianit@gmail.com',
   },
   resume: {
     fileUrl:
@@ -49,18 +49,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Fiverr',
+      position: 'Devops Php developer',
+      from: 'May 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://fiverr.com/devnzian',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'UpWork',
+      position: 'Devops Php developer',
+      from: 'July 2010',
+      to: 'Present',
+      companyLink: 'https://upwork.com/devnzian',
     },
   ],
   /* certifications: [
@@ -73,16 +73,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Shahjalal University of Science and Technology',
+      degree: 'Bsc in Comuter Science',
+      from: '2005',
+      to: '2010',
     },
   ],
 
@@ -106,7 +100,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
